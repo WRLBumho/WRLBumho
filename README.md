@@ -1,8 +1,10 @@
 <div align="center">
 	<br>
-	<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	<img src="header.svg" width="800" height="300" alt="Click the icon below to email">
 	</a>
 	<br>
+ 	<a href="mailto: [email protected] ">
+		<img alt="Static Badge" src="https://img.shields.io/badge/Mail_Me-black"></a>	
 </div>
 
 <!--
