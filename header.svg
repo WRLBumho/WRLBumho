@@ -83,7 +83,8 @@
 			</style>
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+				<p> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">&nbsp
+</p>
 			</div>
 		</div>
 	</foreignObject>
